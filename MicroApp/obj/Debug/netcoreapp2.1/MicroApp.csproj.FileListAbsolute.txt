@@ -1,0 +1,14 @@
+C:\Users\mbarukula\source\repos\MicroApp\MicroApp\bin\Debug\netcoreapp2.1\MicroApp.deps.json
+C:\Users\mbarukula\source\repos\MicroApp\MicroApp\bin\Debug\netcoreapp2.1\MicroApp.runtimeconfig.json
+C:\Users\mbarukula\source\repos\MicroApp\MicroApp\bin\Debug\netcoreapp2.1\MicroApp.runtimeconfig.dev.json
+C:\Users\mbarukula\source\repos\MicroApp\MicroApp\bin\Debug\netcoreapp2.1\MicroApp.dll
+C:\Users\mbarukula\source\repos\MicroApp\MicroApp\obj\Debug\netcoreapp2.1\MicroApp.csprojAssemblyReference.cache
+C:\Users\mbarukula\source\repos\MicroApp\MicroApp\obj\Debug\netcoreapp2.1\MicroApp.csproj.CoreCompileInputs.cache
+C:\Users\mbarukula\source\repos\MicroApp\MicroApp\obj\Debug\netcoreapp2.1\MicroApp.RazorAssemblyInfo.cache
+C:\Users\mbarukula\source\repos\MicroApp\MicroApp\obj\Debug\netcoreapp2.1\MicroApp.RazorAssemblyInfo.cs
+C:\Users\mbarukula\source\repos\MicroApp\MicroApp\obj\Debug\netcoreapp2.1\MicroApp.AssemblyInfoInputs.cache
+C:\Users\mbarukula\source\repos\MicroApp\MicroApp\obj\Debug\netcoreapp2.1\MicroApp.AssemblyInfo.cs
+C:\Users\mbarukula\source\repos\MicroApp\MicroApp\obj\Debug\netcoreapp2.1\MicroApp.RazorTargetAssemblyInfo.cache
+C:\Users\mbarukula\source\repos\MicroApp\MicroApp\bin\Debug\netcoreapp2.1\MicroApp.pdb
+C:\Users\mbarukula\source\repos\MicroApp\MicroApp\obj\Debug\netcoreapp2.1\MicroApp.dll
+C:\Users\mbarukula\source\repos\MicroApp\MicroApp\obj\Debug\netcoreapp2.1\MicroApp.pdb
