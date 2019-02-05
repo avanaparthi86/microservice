@@ -25,6 +25,7 @@ namespace MicroApp.Controllers
         public string Get(int id)
         {
             var returnValue = string.Empty;
+            objRadio.RadioSystems= objRadio.GetAlRadioSystems();
             var foundItem = objRadio.RadioSystems.Find(item => item.RadioId == id);
             if (foundItem != null)
             {
